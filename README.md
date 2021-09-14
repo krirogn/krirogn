@@ -42,11 +42,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Thunderbird-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white)
+![](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)
 
-## My Learning 🏫
+## What I'm Learning 🏫
 <b>Languages</b></br>
 ![](https://img.shields.io/badge/Rust-EF4A00?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 </br></br>
 <b>General</b></br>
 Game Engine Architecture:
@@ -73,7 +78,7 @@ in Rust for it's many performance and security advantages.
   </a>
 </p>
 
-## Development Last Week 📊
+## Development This Week 📊
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
