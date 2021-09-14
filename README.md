@@ -43,6 +43,28 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+## My Learning 🏫
+<b>Languages</b></br>
+![](https://img.shields.io/badge/Rust-EF4A00?style=for-the-badge&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+</br></br>
+<b>General</b></br>
+Game Engine Architecture:
+[Game Engine Architecture by Jason Gregory](https://www.gameenginebook.com/)
+
+## My W.I.P Projects 🔨
+<b>Ideal Life:</b></br>
+A web-app that helps students keep tabs with and manage their life. It let's you add
+todo's, add assignments and general work to be done. It also helps you with your budget 🤠.
+I'm also trying to add bamk support so you can get an overview of your transactions for
+a better overview in your budget. The budget is supposed to be an Excel budget spreadsheet
+on russian steroids 💪.
+
+<b>PIT Engine:</b></br>
+I'm currently *trying* to develop a game engine from "scratch" to make 2D/2.5D games. I'm
+first making it in Java, with an integrated ImGUI editor, and will go over to making it
+in Rust for it's many performance and security advantages. 
+
 ## My Stats 📈
 <p>
   <a href="https://github.com/krirogn">
@@ -51,5 +73,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+## Development Last Week 📊
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
