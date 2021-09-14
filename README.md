@@ -1,4 +1,4 @@
-<img align="center" src="" />
+<img align="center" src="https://github.com/krirogn/krirogn/blob/main/github-banner.png?raw=true" />
 
 <!--
 **krirogn/krirogn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Skills ✨
+## My Knowledge ✨
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,11 +41,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## My Stats 📈
 <p>
   <a href="https://github.com/krirogn">
-    <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=krirogn&theme=synthwave&layout=compact&title_color=ffffff&text_color=fffefe">
+    <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=krirogn&theme=synthwave&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=803448">
   </a>
 </p>
 
