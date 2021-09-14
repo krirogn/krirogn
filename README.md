@@ -75,4 +75,7 @@ in Rust for it's many performance and security advantages.
 
 ## Development Last Week 📊
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
