@@ -83,8 +83,4 @@ in Rust for it's many performance and security advantages.
 </p>
 
 ## Development This Week 📊
-<!--START_SECTION:waka-->
-```text
-Vue.js   40 mins         █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krirogn)](https://github.com/krirogn)
