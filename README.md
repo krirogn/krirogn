@@ -83,4 +83,4 @@ in Rust for it's many performance and security advantages.
 </p>
 
 ## Development This Week 📊
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krirogn)](https://github.com/krirogn)
+[![willianrod's wakatime stats](https://github-readme-stats-krirogn.vercel.app/api/wakatime?username=krirogn)](https://github.com/krirogn)
