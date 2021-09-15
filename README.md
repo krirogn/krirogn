@@ -85,6 +85,6 @@ in Rust for it's many performance and security advantages.
 ## Development This Week 📊
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js   40 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
