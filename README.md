@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 ## What I'm Learning 🏫
 <b>Languages</b></br>
 ![](https://img.shields.io/badge/Rust-EF4A00?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-<!-- ![](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+<!-- ![](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 </br></br>
 <b>General</b></br>
 Game Engine Architecture:
