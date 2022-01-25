@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 Game Engine Architecture:
 [Game Engine Architecture by Jason Gregory](https://www.gameenginebook.com/) -->
 
-## My W.I.P Projects 🔨
+<!-- ## My W.I.P Projects 🔨
 <b>Ideal Life:</b></br>
 A web-app that helps students keep tabs with and manage their life. It let's you add
 todo's, add assignments and general work to be done. It also helps you with your budget 🤠.
@@ -73,7 +73,7 @@ on russian steroids 💪.
 I'm currently *trying* to develop a game engine from "scratch" to make 2D/2.5D games. I'm
 first making it in Java, with an integrated ImGUI editor, and will go over to making it
 in Rust for it's many performance and security advantages. 
-
+-->
 ## My Stats 📈
 <p>
   <a href="https://github.com/krirogn">
