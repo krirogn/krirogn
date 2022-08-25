@@ -1,5 +1,5 @@
 # Hello World 🌄
-<img align="center" src="https://github.com/krirogn/krirogn/blob/main/github-banner.png?raw=true" />
+![Header](./github-banner.png)
 
 <!--
 **krirogn/krirogn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
