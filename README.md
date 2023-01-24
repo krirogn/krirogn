@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black)
 ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)
+![](https://img.shields.io/badge/Rust-EF4A00?style=for-the-badge&logo=rust&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Thunderbird-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white) -->
 
 ## What I'm Learning 🏫
 <b>Languages</b></br>
-![](https://img.shields.io/badge/Rust-EF4A00?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 <!-- ![](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
