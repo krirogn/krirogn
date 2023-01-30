@@ -80,7 +80,7 @@ in Rust for it's many performance and security advantages.
 <p>
   <a href="https://github.com/krirogn">
     <img height="180em" src="https://github-readme-stats-krirogn.vercel.app/api?username=krirogn&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=803448">
-    <!-- <img height="180em" src = "https://github-readme-stats-krirogn.vercel.app/api/top-langs/?username=krirogn&theme=synthwave&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=803448"> -->
+    <!-- <img height="180em" src = "https://github-readme-stats-krirogn.vercel.app/api/top-langs/?username=krirogn&theme=synthwave&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=803448"> --><!--
   </a>
 </p>
 -->
