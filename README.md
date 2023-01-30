@@ -76,13 +76,14 @@ I'm currently *trying* to develop a game engine from "scratch" to make 2D/2.5D g
 first making it in Java, with an integrated ImGUI editor, and will go over to making it
 in Rust for it's many performance and security advantages. 
 -->
-## My Stats 📈
+<!-- ## My Stats 📈
 <p>
   <a href="https://github.com/krirogn">
     <img height="180em" src="https://github-readme-stats-krirogn.vercel.app/api?username=krirogn&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=803448">
     <!-- <img height="180em" src = "https://github-readme-stats-krirogn.vercel.app/api/top-langs/?username=krirogn&theme=synthwave&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=803448"> -->
   </a>
 </p>
+-->
 
 ## Development This Week 📊
 [![willianrod's wakatime stats](https://github-readme-stats-krirogn.vercel.app/api/wakatime?username=krirogn&title_color=F7628A&bg_color=803448&text_color=ffffff)](https://github.com/krirogn)
