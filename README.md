@@ -1,5 +1,5 @@
 # Hello World 🌄
-![Header](./github-banner.png)
+![Header](./github-banner2.png)
 
 <!--
 **krirogn/krirogn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -86,4 +86,6 @@ in Rust for it's many performance and security advantages.
 -->
 
 ## Development This Week 📊
-[![willianrod's wakatime stats](https://github-readme-stats-krirogn.vercel.app/api/wakatime?username=krirogn&title_color=F7628A&bg_color=803448&text_color=ffffff&range=last_7_days)](https://github.com/krirogn)
+<!--[![willianrod's wakatime stats](https://github-readme-stats-krirogn.vercel.app/api/wakatime?username=krirogn&title_color=F7628A&bg_color=803448&text_color=ffffff&range=last_7_days)](https://github.com/krirogn)-->
+
+[![krirogn's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krirogn&range=last_7_days&title_color=fff&bg_color=-20,ffdde4,F5648B&text_color=000&hide_border=true&border_radius=0&hide_title=true)](https://wakatime.com/@krirogn)
