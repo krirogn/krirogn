@@ -1,5 +1,5 @@
 # Hello World 🌄
-![Header](./github-banner2.png)
+![Header](./github-banner2-logo.png)
 
 <!--
 **krirogn/krirogn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
