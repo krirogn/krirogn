@@ -85,6 +85,9 @@ Here are some ideas to get you started:
 ## What I'm Learning 🏫
 <b>Languages</b></br>
 [![](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](#)
+
+<b>General</b></br>
+[![](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)](#)
 <!-- ![](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 </br></br>
