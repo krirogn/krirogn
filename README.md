@@ -87,7 +87,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](#) -->
 
 <b>General</b></br>
-[![](https://img.shields.io/badge/Leptos-EF3939?style=for-the-badge&logo=leptos&logoColor=white)](https://www.leptos.dev/)
+[![](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
+<!-- [![](https://img.shields.io/badge/Leptos-EF3939?style=for-the-badge&logo=leptos&logoColor=white)](https://www.leptos.dev/) -->
 <!-- [![](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)](#) -->
 <!-- ![](https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
